@@ -13,8 +13,32 @@ A small collection of Markdown prompt templates and reference notes for multi-ag
     └── finance/
         ├── ai-options-flow-market-buzz.md
         ├── deep-ai-stock-due-diligence.md
+        ├── massive-api/
+        │   ├── README.md
+        │   ├── catalysts/
+        │   ├── competitive-position/
+        │   ├── consensus/
+        │   ├── derivatives/
+        │   ├── earnings/
+        │   ├── fundamentals/
+        │   ├── positioning/
+        │   ├── risk/
+        │   ├── thesis/
+        │   └── valuation/
+        ├── x-twitter/
+        │   ├── README.md
+        │   ├── catalysts/
+        │   ├── competitive-position/
+        │   ├── events/
+        │   ├── influence/
+        │   ├── leadership/
+        │   ├── media/
+        │   ├── products/
+        │   ├── risk/
+        │   └── sentiment/
         ├── multi-stock-ai-sector-pulse.md
-        └── quick-ai-stock-snapshot.md
+        ├── quick-ai-stock-snapshot.md
+        └── Value Analysis.md
 ```
 
 ## Documents
@@ -29,6 +53,9 @@ A small collection of Markdown prompt templates and reference notes for multi-ag
 | Deep AI Stock Due Diligence Brief | Fuller investor review of one AI-related stock | [deep-ai-stock-due-diligence.md](prompts/finance/deep-ai-stock-due-diligence.md) |
 | AI Stock Options Flow + Market Buzz | Trader-focused options activity and short-term sentiment | [ai-options-flow-market-buzz.md](prompts/finance/ai-options-flow-market-buzz.md) |
 | Multi-Stock AI Sector Pulse | Comparing multiple AI-related stocks by momentum, news, and sentiment | [multi-stock-ai-sector-pulse.md](prompts/finance/multi-stock-ai-sector-pulse.md) |
+| Value Analysis | Comprehensive value-investor ratio analysis with historical and peer benchmarking | [Value Analysis.md](<prompts/finance/Value Analysis.md>) |
+| Massive API Investment Research Library | Ten categorized Massive API prompts for single-company investment research | [massive-api/README.md](prompts/finance/massive-api/README.md) |
+| X Twitter Investment Research Library | Ten categorized X sentiment, narrative, event, and rumor prompts for investment research | [x-twitter/README.md](prompts/finance/x-twitter/README.md) |
 
 ## How to Use
 
@@ -39,5 +66,7 @@ A small collection of Markdown prompt templates and reference notes for multi-ag
 ## Notes
 
 - The finance templates assume access to Polygon, web search, and X search.
+- The Massive API templates assume access to Massive REST API endpoints and the Massive API documentation.
+- The X Twitter templates assume access to X keyword, semantic, user, thread, and video tools.
 - The primer explains the intended multi-agent workflow and tool-selection logic.
 - Market data and sentiment can change quickly, so use live tools for any investor-facing answer.
