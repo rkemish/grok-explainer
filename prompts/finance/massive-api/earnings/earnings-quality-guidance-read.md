@@ -32,3 +32,9 @@ or stable. Quote no more than one short phrase per call.
 - Include 1-day and 5-day post-earnings price reaction.
 - Compare prepared remarks tone against Q&A tone.
 - Quote no more than one short phrase per earnings call.
+
+## Source Discipline
+
+- Cite every Massive endpoint and field used, including actuals, estimates, guidance, analyst action, price, timestamp, and data freshness fields.
+- State unavailable fields explicitly instead of substituting assumptions.
+- Do not present the output as financial advice.

@@ -32,3 +32,9 @@ behavior?
 - Show open-interest concentration by strike for the next two expirations.
 - Calculate options-implied move for the next earnings date.
 - Compare implied behavior against recent realized behavior.
+
+## Source Discipline
+
+- Cite every Massive endpoint and field used, including contract, quote, trade, volume, open interest, IV, and timestamp fields.
+- State unavailable fields explicitly instead of substituting assumptions.
+- Do not present the output as financial advice.

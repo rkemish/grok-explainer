@@ -32,3 +32,9 @@ risk factors via the filings endpoint. Conclude with the 3 biggest structural ri
 - Include recent partnership or contract changes.
 - Cross-reference claims against the latest 10-K or 10-Q risk factors.
 - End with three structural risks and three defensible moats.
+
+## Source Discipline
+
+- Cite every Massive endpoint and field used, including filing section, risk factor, news, related ticker, timestamp, and data freshness fields.
+- State unavailable fields explicitly instead of substituting assumptions.
+- Do not present the output as financial advice.

@@ -31,3 +31,9 @@ position relative to 50/200-day moving averages. Output a one-paragraph risk cha
 - Include maximum drawdown and recovery time.
 - Show correlation to the top five exposed macro factors.
 - End with a one-paragraph risk profile.
+
+## Source Discipline
+
+- Cite every Massive endpoint and field used, including OHLC, volume, indicator, snapshot, quote, trade, date, and timestamp fields.
+- State unavailable fields explicitly instead of substituting assumptions.
+- Do not present the output as financial advice.

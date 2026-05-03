@@ -24,3 +24,9 @@ their current stance on {TICKER} (bull/bear/neutral), and a 1-sentence note on t
 quality of their analysis. Flag accounts worth adding to a permanent monitor list.
 ```
 
+## Source Discipline
+
+- Use time-bound X searches and state the exact search window.
+- Paraphrase posts and threads; do not quote them verbatim.
+- Attribute claims by source type and include credibility context.
+- Do not present the output as financial advice.

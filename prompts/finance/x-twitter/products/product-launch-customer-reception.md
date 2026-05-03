@@ -24,3 +24,9 @@ Output: a reception scorecard with (a) volume of posts, (b) sentiment split,
 that's becoming a viral talking point, and (f) implied demand signal vs. expectations.
 ```
 
+## Source Discipline
+
+- Use time-bound X searches and state the exact search window.
+- Paraphrase posts, threads, and videos; do not quote them verbatim.
+- Attribute claims by source type and include credibility context.
+- Do not present the output as financial advice.

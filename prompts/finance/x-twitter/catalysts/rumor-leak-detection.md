@@ -25,3 +25,9 @@ public evidence, and (e) implied directional impact if true. Mark each rumor as
 high / medium / low credibility. Do not state rumors as facts.
 ```
 
+## Source Discipline
+
+- Use time-bound X searches and state the exact search window.
+- Paraphrase rumors and threads; do not quote them verbatim.
+- Attribute claims by source type and include credibility context.
+- Do not present the output as financial advice.

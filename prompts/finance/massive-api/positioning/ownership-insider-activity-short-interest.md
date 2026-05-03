@@ -31,3 +31,9 @@ in shorts).
 - Show short interest history and days-to-cover.
 - Include recent 13D and 13G filings.
 - Flag cluster buys, activist activity, and short-interest spikes.
+
+## Source Discipline
+
+- Cite every Massive endpoint and field used, including filing date, report period, holder, transaction, short-interest, short-volume, float, and timestamp fields.
+- State unavailable fields explicitly instead of substituting assumptions.
+- Do not present the output as financial advice.

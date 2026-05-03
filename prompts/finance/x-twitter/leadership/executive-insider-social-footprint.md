@@ -24,3 +24,9 @@ hints at strategy, public disputes, distraction). Note explicitly if any executi
 is silent or has gone dark recently.
 ```
 
+## Source Discipline
+
+- Use time-bound X searches and state the exact search window.
+- Paraphrase executive posts and thread reactions; do not quote them verbatim.
+- Attribute claims by source type and include credibility context.
+- Do not present the output as financial advice.

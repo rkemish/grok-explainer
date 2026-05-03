@@ -8,9 +8,9 @@ Give me a real-time investor briefing on {TICKER} as an AI-related stock.
 
 ## Data Sources
 
-### Polygon
+### Massive
 
-Use Polygon for:
+Use Massive for:
 
 - Current price, today’s change, volume, market cap
 - Key financial metrics (trailing PE, forward PE, revenue growth)
@@ -39,4 +39,4 @@ Summarize everything in a clear, actionable investor briefing:
 - **Market Sentiment:** Bullish, bearish, or mixed sentiment from X and news flow
 - **Investor Takeaway:** Concise risk/reward view and what to watch next
 
-> Keep the tone concise, factual, and actionable. Distinguish confirmed data from sentiment or speculation.
+> Keep the tone concise, factual, and actionable. Distinguish confirmed data from sentiment or speculation. Do not present the output as financial advice.

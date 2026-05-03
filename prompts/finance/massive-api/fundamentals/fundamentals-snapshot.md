@@ -30,3 +30,9 @@ and end with a 5-bullet "what the numbers actually say" summary. Cite the API en
 - Flag inflection points greater than 20%.
 - End with exactly five plain-English takeaways.
 - Cite the Massive API endpoints used.
+
+## Source Discipline
+
+- Cite every Massive endpoint and field used, including period dates and data freshness.
+- State unavailable fields explicitly instead of substituting assumptions.
+- Do not present the output as financial advice.

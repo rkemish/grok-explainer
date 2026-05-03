@@ -31,3 +31,9 @@ regulatory decisions) with dates from the API's calendar endpoint.
 - Summarize each cluster in two to three sentences.
 - Rate materiality as low, medium, or high.
 - List the next four known forward catalysts with dates from the Massive API calendar endpoint.
+
+## Source Discipline
+
+- Cite every Massive endpoint and field used, including headline, publisher, timestamp, sentiment, ticker, event date, and data freshness fields.
+- State unavailable fields explicitly instead of substituting assumptions.
+- Do not present the output as financial advice.

@@ -8,9 +8,9 @@ Real-time AI sector pulse on these stocks: {TICKER1}, {TICKER2}, {TICKER3}.
 
 ## Data Sources
 
-### Polygon
+### Massive
 
-For each ticker, use Polygon to pull:
+For each ticker, use Massive to pull:
 
 - Current price
 - Percentage change today
@@ -54,3 +54,4 @@ Present the comparison in this structure:
 - Distinguish price momentum from news quality and social sentiment.
 - Call out conflicting signals, such as strong price action but weak news flow.
 - Keep the analysis comparative and concise.
+- Do not present the output as financial advice.

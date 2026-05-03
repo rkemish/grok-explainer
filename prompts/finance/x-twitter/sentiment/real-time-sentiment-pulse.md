@@ -22,3 +22,9 @@ no quotes), top 5 bearish takes (paraphrased), and any apparent divergence from 
 stock's recent price move.
 ```
 
+## Source Discipline
+
+- Use time-bound X searches and state the exact search window.
+- Paraphrase posts and threads; do not quote them verbatim.
+- Attribute claims by source type and include credibility context.
+- Do not present the output as financial advice.

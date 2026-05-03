@@ -10,9 +10,9 @@ Evaluate whether the company is a credible AI beneficiary, an overhyped AI narra
 
 ## Data Sources
 
-### Polygon
+### Massive
 
-Use Polygon for:
+Use Massive for:
 
 - Current price, daily move, volume, market cap, and recent trading range
 - Financial metrics, including trailing PE, forward PE, revenue growth, margins, and free cash flow if available
@@ -58,3 +58,4 @@ Write the briefing in the following structure:
 - Cite dates and sources for news items.
 - Do not rely on stale market data when a live tool can verify it.
 - Keep the tone direct, balanced, and useful for an investor.
+- Do not present the output as financial advice.

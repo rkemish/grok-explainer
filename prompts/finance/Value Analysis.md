@@ -1,5 +1,5 @@
 Perform a Comprehensive Fundamental Ratio Analysis + Historical/Peer Benchmarking for the US public stock with ticker [TICKER].
-Use your code_execution tool with the Polygon RESTClient as the primary source for the most current fundamentals (TTM and annual/quarterly statements), key ratios, historical financials (5–10 years where available), dividends, and any available peer data. Supplement with web_search or browse_page only when needed for sector averages, additional peer benchmarks, or latest context from reliable sources (e.g., company filings, industry reports).
+Use your code_execution tool with the Massive RESTClient as the primary source for the most current fundamentals (TTM and annual/quarterly statements), key ratios, historical financials (5-10 years where available), dividends, and any available peer data. Supplement with web_search or browse_page only when needed for sector averages, additional peer benchmarks, or latest context from reliable sources (e.g., company filings, industry reports).
 Focus exclusively on insights useful for value investors (Graham/Buffett style): emphasis on margin of safety, normalized earnings power, financial strength, and long-term compounding potential.
 Required output structure (follow exactly):
 1. Executive Summary
@@ -66,6 +66,6 @@ Top 3 strengths and top 3 potential risks/red flags for a value investor.
 Any other notable observations from the latest financials.
 
 9. Data Sources & Freshness
-List the exact sources used (Polygon API snapshots, specific web pages, etc.) and the date/time the data was pulled.
-Use clean markdown tables throughout. Be objective, data-driven, and quantitative. Flag any limitations in data availability. Do not add generic filler text.
+List the exact sources used (Massive API snapshots, specific web pages, etc.) and the date/time the data was pulled.
+Use clean markdown tables throughout. Be objective, data-driven, and quantitative. Flag any limitations in data availability. Do not add generic filler text. Do not present the output as financial advice.
 Ticker to analyze: [TICKER]

@@ -8,9 +8,9 @@ Real-time options and sentiment report for the AI stock {TICKER}.
 
 ## Data Sources
 
-### Polygon
+### Massive
 
-Use Polygon to pull:
+Use Massive to pull:
 
 - Current stock price, daily change, volume, and implied volatility
 - Top 5 most active options contracts today by volume and open interest
@@ -52,3 +52,4 @@ Present the report in this structure:
 - Separate confirmed options data from social-media speculation.
 - Mention liquidity concerns if bid/ask spreads are wide or open interest is thin.
 - Keep the tone practical for a short-term trader, not a long-term investor.
+- Do not present the output as financial advice.

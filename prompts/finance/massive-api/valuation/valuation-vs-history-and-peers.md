@@ -31,3 +31,4 @@ that is >1 standard deviation from norm.
 - Include peer percentile ranks.
 - Flag multiples more than one standard deviation from normal.
 - Cite endpoint and field names used for peer selection and valuation metrics.
+- Do not present the output as financial advice.

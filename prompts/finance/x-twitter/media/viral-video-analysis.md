@@ -26,3 +26,9 @@ audience's reaction, and (e) implications for the {TICKER} thesis. Paraphrase - 
 reproduce video transcripts verbatim.
 ```
 
+## Source Discipline
+
+- Use time-bound X searches and state the exact search window.
+- Paraphrase posts, frames, subtitles, and threads; do not quote them verbatim.
+- Attribute claims by source type and include credibility context.
+- Do not present the output as financial advice.

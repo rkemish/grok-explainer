@@ -31,3 +31,9 @@ available) is materially better than the consensus.
 - Calculate implied upside or downside versus current price.
 - Summarize EPS and revenue revision direction.
 - Identify stronger analyst track records only when Massive API accuracy data supports it.
+
+## Source Discipline
+
+- Cite every Massive endpoint and field used, including analyst, target, rating, date, and data freshness fields.
+- State unavailable fields explicitly instead of substituting assumptions.
+- Do not present the output as financial advice.

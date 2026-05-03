@@ -24,3 +24,9 @@ them, (c) supporting evidence cited, (d) the company's or the bulls' rebuttal, a
 (e) a credibility rating (high/medium/low) per claim. Paraphrase - never quote allegations.
 ```
 
+## Source Discipline
+
+- Use time-bound X searches and state the exact search window.
+- Paraphrase allegations and threads; do not quote them verbatim.
+- Attribute claims by source type and include credibility context.
+- Do not present the output as financial advice.

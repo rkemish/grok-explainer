@@ -21,19 +21,32 @@ It also includes a primer that documents the intended multi-agent sandbox workfl
     └── finance/
         ├── ai-options-flow-market-buzz.md
         ├── deep-ai-stock-due-diligence.md
+        ├── grok-ai-sector-basket-monitor.md
+        ├── grok-bull-bear-investment-committee.md
+        ├── grok-catalyst-to-trade-plan.md
+        ├── grok-cross-asset-macro-readthrough.md
+        ├── grok-daily-market-command-center.md
+        ├── grok-earnings-event-war-room.md
+        ├── grok-portfolio-risk-radar.md
+        ├── grok-single-name-war-room.md
         ├── multi-stock-ai-sector-pulse.md
         ├── quick-ai-stock-snapshot.md
         ├── Value Analysis.md
         ├── massive-api/
         │   ├── README.md
+        │   ├── alternative/
         │   ├── catalysts/
         │   ├── competitive-position/
         │   ├── consensus/
+        │   ├── cross-asset/
         │   ├── derivatives/
         │   ├── earnings/
+        │   ├── etf/
         │   ├── fundamentals/
+        │   ├── macro/
         │   ├── positioning/
         │   ├── risk/
+        │   ├── technicals/
         │   ├── thesis/
         │   └── valuation/
         └── x-twitter/
@@ -106,12 +119,25 @@ Output Style:
 | Multi-Stock AI Sector Pulse | Comparing multiple AI-related stocks by momentum, news, and sentiment | [multi-stock-ai-sector-pulse.md](prompts/finance/multi-stock-ai-sector-pulse.md) |
 | Value Analysis | Comprehensive value-investor ratio analysis with historical and peer benchmarking | [Value Analysis.md](<prompts/finance/Value Analysis.md>) |
 
+## Grok Orchestration Workflows
+
+| Workflow | Best For | File |
+| --- | --- | --- |
+| Grok Daily Market Command Center | Cross-market daily briefing using Massive, macro, news, X, and team synthesis | [grok-daily-market-command-center.md](prompts/finance/grok-daily-market-command-center.md) |
+| Grok Single-Name War Room | Full investment committee workflow for one stock | [grok-single-name-war-room.md](prompts/finance/grok-single-name-war-room.md) |
+| Grok Earnings Event War Room | Pre/post earnings setup with estimates, guidance, options, web, and X | [grok-earnings-event-war-room.md](prompts/finance/grok-earnings-event-war-room.md) |
+| Grok Portfolio Risk Radar | Multi-name risk monitor across filings, price action, positioning, news, and sentiment | [grok-portfolio-risk-radar.md](prompts/finance/grok-portfolio-risk-radar.md) |
+| Grok AI Sector Basket Monitor | AI-stock basket dashboard comparing fundamentals, valuation, momentum, catalysts, and narrative | [grok-ai-sector-basket-monitor.md](prompts/finance/grok-ai-sector-basket-monitor.md) |
+| Grok Catalyst to Trade Plan | Catalyst-driven bull/base/bear scenarios and invalidation signals | [grok-catalyst-to-trade-plan.md](prompts/finance/grok-catalyst-to-trade-plan.md) |
+| Grok Cross-Asset Macro Readthrough | Rates, inflation, labor, FX, futures, crypto, and equity readthrough | [grok-cross-asset-macro-readthrough.md](prompts/finance/grok-cross-asset-macro-readthrough.md) |
+| Grok Bull Bear Investment Committee | Structured debate across data, narrative, source audit, and final stance | [grok-bull-bear-investment-committee.md](prompts/finance/grok-bull-bear-investment-committee.md) |
+
 ## Prompt Libraries
 
 | Library | Contents | File |
 | --- | --- | --- |
-| Massive API Investment Research Library | Ten prompts for fundamentals, valuation, earnings, consensus, ownership, risk, options, catalysts, competitive position, and thesis synthesis | [massive-api/README.md](prompts/finance/massive-api/README.md) |
-| X Twitter Investment Research Library | Ten prompts for sentiment, earnings reaction, leadership signals, bear theses, product reception, influencer maps, narrative benchmarking, rumors, events, and viral video analysis | [x-twitter/README.md](prompts/finance/x-twitter/README.md) |
+| Massive API Investment Research Library | 42 prompts for fundamentals, valuation, earnings, consensus, ownership, risk, options, catalysts, competitive position, thesis synthesis, technicals, macro, ETF, alternative, and cross-asset research | [massive-api/README.md](prompts/finance/massive-api/README.md) |
+| X Twitter Investment Research Library | 22 prompts for sentiment, earnings reaction, leadership, risk escalation, product reception, influencer maps, narrative benchmarking, rumors, events, viral video, and claim verification | [x-twitter/README.md](prompts/finance/x-twitter/README.md) |
 
 ## Skill Entry Point
 
@@ -136,6 +162,7 @@ Use this skill when an agent needs to query Massive or legacy Polygon endpoints 
 - The Massive API prompts assume access to Massive REST API endpoints and documentation.
 - Legacy Polygon.io names may still appear in code, packages, URLs, and environment variables. Treat them as compatibility-era Massive references unless the task is explicitly about migration.
 - The X/Twitter prompts assume access to keyword search, semantic search, user search, thread fetch, and video inspection tools.
+- The Grok orchestration workflows assume a team model where Grok synthesizes, Harper gathers web/X context, Benjamin performs Massive and `code_execution` analysis, and Lucas audits tools, freshness, and unsupported claims.
 - The broader finance templates assume access to live market data, current news, and social sentiment.
 - Market data, consensus estimates, news, and social narratives can change quickly. Use live tools for any investor-facing answer.
 

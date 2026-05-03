@@ -34,3 +34,4 @@ sized for a portfolio context. Show every endpoint and field you used.
 - Finish with probability-weighted expected return.
 - Include a portfolio-sizing recommendation.
 - Show every endpoint and field used.
+- Do not present the output as financial advice.

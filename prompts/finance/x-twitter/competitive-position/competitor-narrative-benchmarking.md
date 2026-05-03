@@ -23,3 +23,9 @@ plus a short paragraph naming who is winning the narrative and why. Flag any pee
 sentiment is moving sharply in either direction relative to {TICKER}.
 ```
 
+## Source Discipline
+
+- Use time-bound X searches and state the exact search window.
+- Paraphrase posts and themes; do not quote them verbatim.
+- Attribute claims by source type and include credibility context.
+- Do not present the output as financial advice.
